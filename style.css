@@ -1,1 +1,25 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
 
+.foto-ok{
+    width: 100%;
+}
+.laranja{
+    background-color: orange;
+    padding: 12px;
+    margin: 12px;
+    border-radius: 12px;
+}
+
+@media screen and (min-width: 1024px) {
+   .foto-ok{
+    width: 50%;
+   }
+    
+   .posição{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+   }
+}
