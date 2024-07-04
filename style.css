@@ -14,6 +14,7 @@ body{
 header{
     background-image: url(sol-por.PNG);
     background-size: 100%;
+    text-align: center;
 }
 @media screen and (min-width: 1024px) {
    .foto-ok{
