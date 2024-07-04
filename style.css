@@ -26,6 +26,11 @@ header{
 img{
     width: 90%;
 }
+
+.meio{
+    text-align: center;
+    margin: 12px 0;
+}
 @media screen and (min-width: 1024px) {
    .foto-ok{
     width: 50%;
