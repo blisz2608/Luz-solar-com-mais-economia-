@@ -19,6 +19,10 @@ header{
     display: flex;
     flex-direction: column;
 }
+
+img{
+    width: 100%;
+}
 @media screen and (min-width: 1024px) {
    .foto-ok{
     width: 50%;
