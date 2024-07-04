@@ -11,7 +11,10 @@ body{
     margin: 12px;
     border-radius: 12px;
 }
-
+header{
+    background-image: url(sol-por.PNG);
+    background-size: 100%;
+}
 @media screen and (min-width: 1024px) {
    .foto-ok{
     width: 50%;
