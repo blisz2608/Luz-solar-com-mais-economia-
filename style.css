@@ -10,6 +10,9 @@ body{
     padding: 12px;
     margin: 12px;
     border-radius: 12px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
 }
 header{
     background-image: url(sol-por.PNG);
@@ -21,7 +24,7 @@ header{
 }
 
 img{
-    width: 100%;
+    width: 90%;
 }
 @media screen and (min-width: 1024px) {
    .foto-ok{
